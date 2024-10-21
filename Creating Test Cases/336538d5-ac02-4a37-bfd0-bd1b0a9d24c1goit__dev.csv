@@ -1,0 +1,16 @@
+"ID","Title","Created By","Created On","Preconditions","Priority","Steps (Expected Result)","Steps (Step)","Type"
+"C1","Ana Web Sitesine Erişim","Efe Can Yemez","8/31/2024 10:47 AM","Web tarayıcısını başlatın.","Medium","GoIt Web sitesi a&ccedil;ıldı.","GoIt Web sitesini a&ccedil;ın.","Functional"
+"","","","","","","Kullanıcı ana GoIT web sitesine y&ouml;nlendirildi.","Sol k&ouml;şede bulunan ana sayfaya y&ouml;nlendiren web sitesi logosuna tıklayın.",""
+"C2","Dil Menüsü """"TR"""" Seçimi","Efe Can Yemez","8/31/2024 10:54 AM","GoIt web sayfası erişilebilir durumda olmalıdır.","Medium","Sayfa i&ccedil;eriği T&uuml;rk&ccedil;e olarak g&ouml;r&uuml;nt&uuml;lenmelidir.","Sağ k&ouml;şedeki dil men&uuml;s&uuml;nden ""TR"" se&ccedil;eneğine tıklayın.","Functional"
+"C3","Dil Menüsü """"ENG"""" Seçimi","Efe Can Yemez","8/31/2024 11:05 AM","GoIt web sayfası erişilebilir durumda olmalıdır.","Medium","Sayfa i&ccedil;eriği İngilizce olarak g&ouml;r&uuml;nt&uuml;lenir.","Sağ k&ouml;şedeki dil men&uuml;s&uuml;nden ""ENG"" se&ccedil;eneğine tıklayın.","Functional"
+"C4","Kod Kontrolü","Efe Can Yemez","8/31/2024 11:08 AM","GoIt Web sitesi erişilebilir olmalıdır.
+Kullanıcı geçerli mail ve şifre ile sisteme giriş yapmış olmalıdır.","High","Girilen kod, kod d&uuml;zenleyici penceresinde g&ouml;r&uuml;nt&uuml;lenmelidir.","Kod d&uuml;zenleyici penceresine ge&ccedil;erli bir kod girin.","Functional"
+"","","","","","","Sunucuya istek g&ouml;nderilir ve kod sonu&ccedil;ları g&ouml;r&uuml;nt&uuml;lenmelidir. Kontrol&uuml; ge&ccedil;en &ouml;ğeler yeşil metinle g&ouml;sterilir, aksi takdirde kırmızı renkle g&ouml;sterilir.","Kontrol d&uuml;ğmesine tıklayın.",""
+"C5","Kod Sıfırlama","Efe Can Yemez","8/31/2024 11:12 AM","GoIt Web sitesi erişilebilir olmalıdır.
+Kullanıcı geçerli mail ve şifre ile sisteme giriş yapmış olmalıdır.","Medium","Kod d&uuml;zenleyici penceresinde girilen kod g&ouml;r&uuml;nt&uuml;lenmelidir.","Kod d&uuml;zenleyici penceresine ge&ccedil;erli bir kod girin.","Functional"
+"","","","","","","Kullanıcının sıfırlama onayını isteyen bir pencere a&ccedil;ılmalıdır.","Sıfırla d&uuml;ğmesine tıklayın.",""
+"","","","","","","Evet d&uuml;ğmesine tıklandığında pencere kapanmalı ve d&uuml;zenleyicideki kod orijinal durumuna sıfırlanmalıdır.","Evet d&uuml;ğmesine tıklayın.",""
+"","","","","","","Hayır d&uuml;ğmesine tıkandığında edit&ouml;r penceresindeki kod değişmemelidir.","Hayır d&uuml;ğmesine tıklayın.",""
+"C6","""""Sonraki Görev"""" butonu","Efe Can Yemez","8/31/2024 12:05 PM","GoIt Web sitesi erişilebilir olmalıdır.
+Kullanıcı geçerli mail ve şifre ile sisteme giriş yapmış olmalıdır.
+Düzenleyici penceresindeki kod kontrolü geçmelidir.","High","""Kontrol et"" butonu, ""Sonraki g&ouml;rev"" butonuna d&ouml;ner ve tıklandığında bir sonraki sorunun bulunduğu sayfa a&ccedil;ılır.","Sonu&ccedil;lar b&ouml;l&uuml;m&uuml;ndeki t&uuml;m &ouml;ğeler yeşil metinle g&ouml;r&uuml;nt&uuml;lenmelidir.","Functional"
